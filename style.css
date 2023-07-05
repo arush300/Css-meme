@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+
+}
+h1{
+    text-transform: uppercase;
+  font-size: 3rem;
+}
+.poster {
+  border: 10px wheat;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.motivation {
+border: 10px white;
+width: 100%;
+height: 200px;
+width: 300px;
+}
